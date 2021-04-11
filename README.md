@@ -1,7 +1,7 @@
 # python-games
 Repositorio para crear Juegos en Python para Niños.
 
-Este es un Espacio para colocar juego para Niños, creados en Python
+Este es un Espacio para colocar juego para Niños, creados en Python.
 
 ### Ejecutar
 
@@ -11,7 +11,7 @@ python3 retomultiplicador.py
 
 ### Contribuir
 
-Si alguien quiere agregar o mejorar algo, es bienvenido a hacerlo
+Si alguien quiere agregar o mejorar algo, es bienvenido a hacerlo.
 
 ### Licencia
 
