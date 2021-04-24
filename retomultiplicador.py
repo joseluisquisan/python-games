@@ -25,7 +25,7 @@ def desafio_multuplicador(nombre, pregunta, vidas):
     else:
         vidas -= 1
         print('Lo siento, el valor verdadero es : {}'.format(resultado_verdadero))
-        print('Te quedad :', vidas)
+        print('Te quedan {} Vidas '.format(vidas))
         return vidas
 
 def run():
@@ -46,7 +46,9 @@ def run():
             print('#' * 50)
             break
     else:
-        print('win!')
+        print('#' * 50)
+        print('Haz Ganado {} (Aplausos 👏), espera tu regalo pronto'.format(nombre))
+        print('#' * 50)
 
 if __name__ == '__main__':
     run()
